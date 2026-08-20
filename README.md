@@ -1,4 +1,1 @@
-"# Hello World" 
-"DÉy lÖ d? †n d?u tiàn c?a tìi v?i Git!" 
-"Tìi da h?c xong Git!" 
-"Branch m?i" 
+T√¥i ƒë√£ h·ªçc xong Git!
