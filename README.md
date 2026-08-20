@@ -1,4 +1,3 @@
-"# Hello World" 
-"D�y l� d? �n d?u ti�n c?a t�i v?i Git!" 
-"T�i da h?c xong Git!" 
-"Branch m?i" 
+# Hello World
+Đây là dự án đầu tiên của tôi với Git!
+Tôi đã học xong Git!
